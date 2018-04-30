@@ -1,0 +1,14 @@
+F:\Users\Alex\Documents\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\pi közelítő 5\pi közelítő 5\bin\Debug\pi közelítő 5.exe
+F:\Users\Alex\Documents\C# Progik\pi közelítő 5\pi közelítő 5\bin\Debug\pi közelítő 5.pdb
+F:\Users\Alex\Documents\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.exe
+F:\Users\Alex\Documents\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.pdb
+E:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.exe
+E:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.pdb
+E:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\bin\Debug\pi közelítő 5.exe
+E:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\bin\Debug\pi közelítő 5.pdb
+E:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\ResolveAssemblyReference.cache
+F:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.exe
+F:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.pdb
+J:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.exe
+J:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.pdb
