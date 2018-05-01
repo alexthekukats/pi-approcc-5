@@ -12,3 +12,9 @@ F:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\
 F:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.pdb
 J:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.exe
 J:\uj_mappa\egyeb\C nyelv\C# Progik\pi közelítő 5\pi közelítő 5\obj\Debug\pi közelítő 5.pdb
+D:\Alex\Dokkok\GitHub\pi_kozelito5\pi közelítő 5\bin\Debug\pi közelítő 5.exe
+D:\Alex\Dokkok\GitHub\pi_kozelito5\pi közelítő 5\bin\Debug\pi közelítő 5.pdb
+D:\Alex\Dokkok\GitHub\pi_kozelito5\pi közelítő 5\obj\Debug\pi közelítő 5.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\pi_kozelito5\pi közelítő 5\obj\Debug\pi közelítő 5.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\pi_kozelito5\pi közelítő 5\obj\Debug\pi közelítő 5.exe
+D:\Alex\Dokkok\GitHub\pi_kozelito5\pi közelítő 5\obj\Debug\pi közelítő 5.pdb
